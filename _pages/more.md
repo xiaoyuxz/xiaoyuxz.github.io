@@ -1,7 +1,7 @@
 ---
-title: "Teach · Supervise · Review"
+title: "More"
 layout: single
-permalink: /tsr/
+permalink: /more/
 author_profile: true
 ---
 
