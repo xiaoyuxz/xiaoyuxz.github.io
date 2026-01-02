@@ -1,0 +1,30 @@
+/* ==========================================================================
+   Custom academic skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #FAF6F1 !default;   // 米白背景
+$text-color: #2E2E2E !default;         // 深灰文字
+$muted-text-color: #555555 !default;   // 柔和灰（用于次要文字）
+$primary-color: #0A2A43 !default;      // 主色（按钮/强调，可选）
+$link-color: #0A2A43 !default;         // 深蓝链接颜色
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $link-color !default;
+$footer-background-color: #0A2A43 !default;
+
+/* Links */
+a {
+  color: $link-color;
+}
+
+a:hover {
+  color: mix(#fff, $link-color, 20%);
+  text-decoration: underline;
+}
+
+/* Buttons (可选调整) */
+.btn--primary {
+  background-color: $link-color;
+  border-color: $link-color;
+}
+
