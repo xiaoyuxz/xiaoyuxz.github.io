@@ -82,7 +82,7 @@ author:
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/"
 
-bottom_links: |
+  bottom_links: |
     [Computational Linguistics Group](https://www.rug.nl/research/clcg/research/cl/)  
 
     [Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)
