@@ -2,23 +2,23 @@
 
 /* 右侧主内容（正文）变小一点 */
 .page__content {
-  font-size: 0.95rem;   /* 默认大约 1rem，可改成 0.92/0.9 更小 */
+  font-size: 0.8rem;   /* 默认大约 1rem，可改成 0.92/0.9 更小 */
   line-height: 1.65;    /* 稍微调行高，阅读更舒服 */
 }
 
 /* 左侧栏（作者信息区：名字、单位、链接）变小一点 */
 .sidebar .author__content,
 .sidebar .author__urls {
-  font-size: 0.9rem;
+  font-size: 0.6rem;
 }
 
 /* 左侧栏链接（Staff Page / ORCID / GitHub / LinkedIn）再小一点 */
 .sidebar .author__urls a {
-  font-size: 0.9rem;
+  font-size: 0.6rem;
 }
 
 /* 左侧栏名字（Xiaoyu Zhou）也小一点 */
 .sidebar .author__name {
-  font-size: 1.2rem;
+  font-size: 0.9rem;
 }
 
