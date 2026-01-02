@@ -55,6 +55,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+styles:
+  custom:
+    - assets/css/custom.scss
+
 author:
   name   : "Xiaoyu Zhou"
   avatar : "/assets/images/xiaoyu_2026.jpg"
