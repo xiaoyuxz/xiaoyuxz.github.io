@@ -57,7 +57,13 @@ plugins:
 author:
   name   : "Xiaoyu Zhou"
   avatar : "/assets/images/xiaoyu_2026.jpg"
-  bio    : "PhD Student at the University of Groningen, The Netherlands"
+  bio    : |
+    [Computational Linguistics Group (CL)](https://www.rug.nl/research/clcg/research/cl/)  
+    [Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)
+    University of Groningen  
+    Oude Kijk in 't Jatstraat 26  
+    9712 EK Groningen, The Netherlands
+  
   links:
     - label: "Staff Page"
       icon: "fas fa-fw fa-university"
@@ -73,7 +79,7 @@ author:
       url: "https://www.linkedin.com/in/xiaoyu-zhou-xz/"
     - label: "xiaoyu.zhou@rug.nl"
       icon: "fa-solid fa-envelope"
-      url: "xiaoyu.zhou@rug.nl"
+      url: "mailto:xiaoyu.zhou@rug.nl"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
