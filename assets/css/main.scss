@@ -1,0 +1,41 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import "minimal-mistakes";
+
+/* =========================
+   Sidebar: author area
+   ========================= */
+
+/* 1) 作者名字 */
+.sidebar .author__name,
+.author__name {
+  font-size: 1.35rem;  /* 调大/调小就改这里 */
+  font-weight: 650;
+}
+
+/* 2) bio 文本 */
+.sidebar .author__bio,
+.author__bio {
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+/* 3) links：你的 Staff Page / ORCID / GitHub / Linkedin 这块的“label” */
+.author__urls a {
+  font-size: 1.08rem;  /* 这就是你问的 label 大小 */
+  line-height: 1.6;
+}
+
+/* 4) links 的图标大小（fas/fab 那些） */
+.author__urls i,
+.author__urls .svg-inline--fa {
+  font-size: 1.05em;
+}
+
+/* 5) links 项之间的间距（更舒服） */
+.author__urls li {
+  margin: 0.25rem 0;
+}
