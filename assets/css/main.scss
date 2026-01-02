@@ -1,41 +1,56 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
-@import "minimal-mistakes";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
-/* =========================
-   Sidebar: author area
-   ========================= */
 
-/* 1) 作者名字 */
-.sidebar .author__name,
-.author__name {
-  font-size: 0.9rem;  /* 调大/调小就改这里 */
-  font-weight: 650;
+/*
+GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
+See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+Anything you place after this point will therefore "cascade and override" the previous CSS styles.
+*/
+
+/*
+GS: Decrease font sizes of the entire website.
+Defaults for small, medium, large, and x-large screens are:
+16, 18, 20, and 22px, in that order. All other font sizes are "em"
+[typography unit](https://en.wikipedia.org/wiki/Em_(typography)) multipliers of these pixel
+(px) values, and are therefore relative to and changed by these singular pixel values.
+See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+- It looks like the screen pixel sizes to move into each new "size" category are defined in
+  the "Breakpoints" section of "_variables.scss"?
+*/
+html {
+  font-size: 14px; // change to whatever
+
+  @include breakpoint($small) {
+    font-size: 14px; // change to whatever
+  }
+
+  @include breakpoint($medium) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px; // change to whatever
+  }
 }
 
-/* 2) bio 文本 */
-.sidebar .author__bio,
-.author__bio {
-  font-size: 0.8rem;
-  line-height: 1.55;
+.masthead__menu-item {
+  margin: 0;
+  padding: 0.2em;
+  font-size: 1.15em;
+  line-height: 1.5;
 }
 
-/* 3) links：你的 Staff Page / ORCID / GitHub / Linkedin 这块的“label” */
-.author__urls a {
-  font-size: 0.8rem;  /* 这就是你问的 label 大小 */
-  line-height: 1.6;
-}
-
-/* 4) links 的图标大小（fas/fab 那些） */
-.author__urls i,
-.author__urls .svg-inline--fa {
-  font-size: 0.8em;
-}
-
-/* 5) links 项之间的间距（更舒服） */
-.author__urls li {
-  margin: 0.2rem 0;
+.page__content {
+  font-size: 0.9em;
 }
