@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xiaoyuxz"
     - label: "Linkedin"
-      icon: "fa-solid fa-linkedin"
+      icon: "fa-solid fa-info-circle"
       url: "https://www.linkedin.com/in/xiaoyu-zhou-xz/"
     - label: "xiaoyu.zhou@rug.nl"
       icon: "fa-solid fa-envelope"
