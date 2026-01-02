@@ -3,14 +3,12 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #F7F3EE !default;  // 柔米白背景
-$text-color: #2A2D31 !default;        // 主文字深灰
-$muted-text-color: #6A6F73 !default;  // 次要文字灰
-$primary-color: #0D2B45 !default;     // 主色（按钮/强调/链接）
-$link-color: #0D2B45 !default;        // 链接海军蓝
-$footer-background-color: #0D2B45 !default; // 页脚背景
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $link-color !default;
+$background-color: #FBFAF8 !default;  // 更白背景
+$text-color: #2B2F33 !default;        // 深灰正文
+$muted-text-color: #6A6F73 !default;  // 次要文字
+$primary-color: #3A6D8C !default;     // 主色（按钮/链接）
+$link-color: #3A6D8C !default;        // 链接文字颜色
+$footer-background-color: #3A6D8C !default;
 
 /* Links */
 a {
@@ -19,7 +17,7 @@ a {
 }
 
 a:hover {
-  color: #1B4B6F; /* Hover 雾蓝 */
+  color: #5B8AA6; /* Hover 更淡一点 */
   text-decoration: underline;
 }
 
@@ -31,11 +29,11 @@ a:hover {
 }
 
 .btn--primary:hover {
-  background-color: #1B4B6F;
-  border-color: #1B4B6F;
+  background-color: #5B8AA6;
+  border-color: #5B8AA6;
 }
 
-/* 让 <h2> 也变成科研主页的海军蓝（可选） */
+/* 标题颜色也淡蓝（可选） */
 h2 {
   color: $link-color;
 }
