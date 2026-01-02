@@ -57,12 +57,7 @@ plugins:
 author:
   name   : "Xiaoyu Zhou"
   avatar : "/assets/images/xiaoyu_2026.jpg"
-  bio    : |
-    [Computational Linguistics Group (CL)](https://www.rug.nl/research/clcg/research/cl/)  
-    [Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)
-    University of Groningen  
-    Oude Kijk in 't Jatstraat 26  
-    9712 EK Groningen, The Netherlands
+  bio    : "PhD Student at the University of Groningen, The Netherlands."
   
   links:
     - label: "Staff Page"
@@ -86,6 +81,11 @@ author:
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/"
+
+bottom_links: |
+    [Computational Linguistics Group](https://www.rug.nl/research/clcg/research/cl/)  
+
+    [Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)
 
 footer:
    # links:
@@ -120,9 +120,6 @@ defaults:
       author_profile: true
       toc: true
       sidebar:
-       - text: "[Computational Linguistics Group (CL)](https://www.rug.nl/research/clcg/research/cl/)"
-       - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)"
-
 
 category_archive:
   type: liquid
