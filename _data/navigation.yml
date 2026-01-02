@@ -5,5 +5,7 @@ main:
     url: /research/
   - title: "Blog"
     url: /blog/
+  - title: "Teach·Supervise·Review"
+    url: /tsr/
   - title: "CV"
     url: /cv/
