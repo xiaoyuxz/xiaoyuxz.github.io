@@ -3,9 +3,9 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Blog"
-    url: /blog/
   - title: "Teach · Supervise · Review"
     url: /tsr/
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: /cv/
