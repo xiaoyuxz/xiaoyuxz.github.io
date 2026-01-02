@@ -4,6 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+sidebar:
+  - text: "[Computational Linguistics Group](https://www.rug.nl/research/clcg/research/cl/)"
+  - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)"
 ---
 
 I am a first-year PhD student at the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/), University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html).
