@@ -61,7 +61,7 @@ author:
   bio    : "PhD Student at the University of Groningen, The Netherlands"
   links:
     - label: "Staff Page"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-university"
       url: "https://www.rug.nl/staff/xiaoyu.zhou/?lang=en"
     - label: "ORCID"
       icon: "fab fa-orcid"
@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xiaoyuxz"
     - label: "Linkedin"
-      icon: "fab fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xiaoyu-zhou-xz/"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
