@@ -8,7 +8,6 @@ sidebar:
   - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)"
 ---
 
-## Projects
 
 ## Publications
 
