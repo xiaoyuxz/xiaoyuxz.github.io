@@ -9,8 +9,8 @@ $muted-text-color: #6C757D;
 $primary-color: #2B2F33;
 $link-color: #3A6D8C;
 
-$masthead-link-color: $text-color;
-$masthead-link-color-hover: $text-color;
+$masthead-link-color: #2B2F33;
+$masthead-link-color-hover: #2B2F33;
 $footer-background-color: #F8F9FA;
 
 /* Content links */
@@ -39,3 +39,10 @@ $footer-background-color: #F8F9FA;
   color: $link-color;
 }
 
+/* 覆盖右侧目录顶部 bar 背景 */
+.toc .nav__title,
+.sidebar .nav__title,
+.on-this-page .nav__title {
+  background-color: #3A6D8C !important; 
+  color: #fff !important; /* 文字改成白色更清晰 */
+}
