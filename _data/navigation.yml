@@ -8,5 +8,5 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "CV"
-    url: /assets/CV_XiaoyuZhou_03Jan2026.pdf/
-    target: "_self"
+    url: "https://xiaoyuxz.github.io/assets/CV_XiaoyuZhou_03Jan2026.pdf"
+    target: "_blank"
