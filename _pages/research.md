@@ -8,7 +8,7 @@ sidebar:
   - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)"
 ---
 ## Projects
-My research interests lie within Digital Humanities, Multimodal Communication, and Computational Linguistics. Here are my ongoing and completed projects:
+My research interests are in the broad field of Digital Humanities, Multimodal Communication and Computational Linguistics. Here are my ongoing and completed projects:
 
 ## Publications
 Coming soon...
