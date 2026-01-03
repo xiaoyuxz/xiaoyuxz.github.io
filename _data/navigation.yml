@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "More"
-    url: /more/
+  - title: "Teaching and Supervision"
+    url: /ts/
   - title: "Blog"
     url: /blog/
   - title: "CV"
