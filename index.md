@@ -13,7 +13,7 @@ I am a first-year PhD student at the [Center for Language and Cognition (CLCG)](
 
 Previously, I received a BA in Translation Studies (2022) and an MA in Digital Humanities (2024). During my graduate studies, I was involved in the [TINTIN Project](https://www.visuallanguagelab.com/tintin)("Visual narratives as a window into language and cognition", ERC StG), where I worked on sentiment analysis for global comics.
 
-Collaborations, feedback, or chats are all welcome. Feel free to reach out!
+Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 
 ## News
