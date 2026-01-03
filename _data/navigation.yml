@@ -3,9 +3,9 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Teaching and Supervision"
+ # - title: "Teaching and Supervision"
     url: /ts/
-  - title: "Blog"
+ # - title: "Blog"
     url: /blog/
   - title: "CV"
     url: "https://xiaoyuxz.github.io/assets/CV_XiaoyuZhou_03Jan2026.pdf"
