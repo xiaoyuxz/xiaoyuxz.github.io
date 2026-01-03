@@ -14,8 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Xiaoyu Zhou 周小渝
-url: "https://xiaoyuxz.github.io"
-baseurl: ""
 email: xiaoyu.zhou@rug.nl
 description: PhD Student at the University of Groningen, the Netherlands.
 # twitter_username: username
