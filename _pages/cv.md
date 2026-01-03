@@ -1,6 +1,6 @@
 ---
 title: 
-permalink: /CV_XiaoyuZhou_03Jan2026.pdf/
+permalink: /cv/
 layout: single
 author_profile: true
 sidebar:
