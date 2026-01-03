@@ -46,3 +46,14 @@ $footer-background-color: #F8F9FA;
   background-color: #3A6D8C !important; 
   color: #fff !important; /* 文字改成白色更清晰 */
 }
+
+/* 修改导航栏 hover 下划线颜色 */
+.masthead__menu a:hover,
+.masthead__menu a:focus {
+  border-bottom-color: #3A6D8C !important;
+  text-decoration-color: #3A6D8C !important;
+}
+
+.masthead__menu a:hover::after {
+  background-color: #3A6D8C !important;
+}
