@@ -18,8 +18,8 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 ## News
 
-- **4–5 May, 2026.** I will participate in the workshop “What We Talk About When We Talk About Comics: Toward a Metadiscourse for Comics Studies” at Malmö University, Sweden, joining a panel discussion informed by my position paper on *audience*.
+- **4–5 May, 2026.** I’ll be joining Malmö University’s workshop “What We Talk About When We Talk About Comics” in Sweden, contributing to a panel discussion on *audience*.
 
-- **20-21 Nov, 2025.** Had a great time at [the first JVMG Lab event](https://jvmg.iuk.hdm-stuttgart.de/2025/12/22/first-jvmg-lab-in-stuttgart/) in Stuttgart, Germany! Developed a mini-TUC [(*Tiny Use Case*)](https://jvmg.iuk.hdm-stuttgart.de/2020/06/04/what-is-a-tiny-use-case/) around [*Lore Olympus*](https://en.wikipedia.org/wiki/Lore_Olympus), using data from the JVMG knowledge graph.
+- **20-21 Nov, 2025.** Had a great time at [the first JVMG Lab event](https://jvmg.iuk.hdm-stuttgart.de/2025/12/22/first-jvmg-lab-in-stuttgart/) in Stuttgart, Germany! Built a mini-TUC [(*Tiny Use Case*)](https://jvmg.iuk.hdm-stuttgart.de/2020/06/04/what-is-a-tiny-use-case/) for [*Lore Olympus*](https://en.wikipedia.org/wiki/Lore_Olympus) using data from the JVMG knowledge graph.
 
 - **1 Oct, 2025.** Began my PhD at the University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html) 
