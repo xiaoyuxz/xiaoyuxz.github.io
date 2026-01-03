@@ -9,3 +9,4 @@ main:
     url: /blog/
   - title: "CV"
     url: /assets/CV_XiaoyuZhou_03Jan2026.pdf/
+    target: "_self"
