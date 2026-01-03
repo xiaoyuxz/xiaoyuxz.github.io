@@ -1,7 +1,7 @@
 ---
 title: 
 layout: single
-permalink: /more/
+permalink: /ts/
 author_profile: true
 sidebar:
   - text: "[Computational Linguistics Group](https://www.rug.nl/research/clcg/research/cl/)"
@@ -13,5 +13,3 @@ Coming soon...
 ## Teaching
 
 ## Supervision
-
-## Reviewing
