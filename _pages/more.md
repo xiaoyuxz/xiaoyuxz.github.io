@@ -1,5 +1,5 @@
 ---
-title: "Teaching, Supervision and Reviewing"
+title: 
 layout: single
 permalink: /more/
 author_profile: true
