@@ -9,9 +9,9 @@ sidebar:
   - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)"
 ---
 
-I am a first-year PhD student at the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/), University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html). My current research focuses on empirical studies of multimodal narratives, especially computational narrative analysis of [webtoons](https://en.wikipedia.org/wiki/Webtoon) in the infinite canvas format. I am also broadly interested in applying natural language processing and computer vision to multimodal communication research and to larger questions across the humanities. Part of my work contributes to the [GOLEM Project](https://golemlab.eu/) (ERC StG). 
+I am a first-year PhD student at the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/), University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html). My current research focuses on computational narrative analysis of [webtoons](https://en.wikipedia.org/wiki/Webtoon) in the infinite canvas format. I am also broadly interested in applying natural language processing and computer vision to multimodal communication research and to larger questions across the humanities. 
 
-Previously, I received a BA in Translation Studies (2022) and an MA in Digital Humanities (2024). During my master’s thesis research, I was involved in the [TINTIN Project](https://www.visuallanguagelab.com/tintin) (ERC StG), where I worked on sentiment analysis for global comics.
+Previously, I received a BA in Translation Studies, an MA in Digital Humanities, and worked as a research assistant on the [GOLEM Project](https://golemlab.eu/) (Graphs and Ontologies for Literary Evolution Models, funded by the European Research Council (ERC StG)).
 
 Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
