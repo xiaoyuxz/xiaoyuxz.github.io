@@ -18,7 +18,7 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 ## News
 
-- **2–5 Jun, 2026.** Will present a poster titled Narrative Flow on the Infinite Canvas at DH Benelux 2026 in Maastricht, the Netherlands.
+- **2–5 Jun, 2026.** Will present a poster titled "Narrative Flow on the Infinite Canvas" at DH Benelux 2026 in Maastricht, the Netherlands.
 
 - **4–5 May, 2026.** Will join Malmö University’s workshop “What We Talk About When We Talk About Comics” in Sweden, contributing to a panel discussion on *audience*.
 
