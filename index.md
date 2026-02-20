@@ -18,7 +18,9 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 ## News
 
-- **4–5 May, 2026.** I’ll be joining Malmö University’s workshop “What We Talk About When We Talk About Comics” in Sweden, contributing to a panel discussion on *audience*.
+- **2–5 Jun, 2026.** Will present a poster titled Narrative Flow on the Infinite Canvas at DH Benelux 2026 in Maastricht, the Netherlands.
+
+- **4–5 May, 2026.** Will join Malmö University’s workshop “What We Talk About When We Talk About Comics” in Sweden, contributing to a panel discussion on *audience*.
 
 - **20-21 Nov, 2025.** Had a great time at [the first JVMG Lab event](https://jvmg.iuk.hdm-stuttgart.de/2025/12/22/first-jvmg-lab-in-stuttgart/) in Stuttgart, Germany! Built a mini-TUC (*Tiny Use Case*) for [*Lore Olympus*](https://en.wikipedia.org/wiki/Lore_Olympus) using data from the JVMG knowledge graph.
 
