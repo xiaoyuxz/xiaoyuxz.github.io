@@ -17,6 +17,7 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 
 ## News
+- **27–31 Jul, 2026.** Will present a long paper titled “Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries,” at DH2026 in Daejeon, South Korea.
 
 - **2–5 Jun, 2026.** Will present a poster titled "Narrative Flow on the Infinite Canvas" at DH Benelux 2026 in Maastricht, the Netherlands.
 
