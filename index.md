@@ -9,7 +9,7 @@ sidebar:
   - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)"
 ---
 
-I am a first-year PhD student in the [Computational Linguistics (CL) group](https://www.rug.nl/research/clcg/research/cl/?lang=en), University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html). My current research focuses on computational narrative analysis of [webtoons](https://en.wikipedia.org/wiki/Webtoon) in the infinite canvas format. I am also broadly interested in applying natural language processing and computer vision to multimodal communication research and to larger questions across the humanities. 
+I am a first-year PhD student in the [Computational Linguistics Group (@GroNLP)](https://www.rug.nl/research/clcg/research/cl/?lang=en), University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html). My current research focuses on computational narrative analysis of [webtoons](https://en.wikipedia.org/wiki/Webtoon) in the infinite canvas format. I am also broadly interested in applying natural language processing and computer vision to multimodal communication research and to larger questions across the humanities. 
 
 Previously, I received a BA in Translation Studies, an MA in Digital Humanities, and worked as a research assistant on the [GOLEM Project](https://golemlab.eu/) (Graphs and Ontologies for Literary Evolution Models, funded by the European Research Council (ERC StG)).
 
