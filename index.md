@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 sidebar:
   - text: "[Computational Linguistics Group](https://www.rug.nl/research/clcg/research/cl/)"
-  - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/ai-and-language/working-groups/multimodality-and-ai/?lang=en)"
+  - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/foundations-of-ai/multimodality-and-ai/)"
 ---
 
 I am a first-year PhD student at the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/?lang=en), University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html). My current research focuses on computational narrative analysis of [webtoons](https://en.wikipedia.org/wiki/Webtoon) in the infinite canvas format. I am also broadly interested in applying natural language processing and computer vision to multimodal communication research and to larger questions across the humanities. 
@@ -17,14 +17,14 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 
 ## News
-- **21 Apr, 2026.** Abstract accepted at the "Re-envisioning Time Across ImageTexts" conference in Siegen, Germany. I will present “From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons” on September 3–4, 2026.
+- *21 Apr, 2026.* Abstract accepted at the "Re-envisioning Time Across ImageTexts" conference in Siegen, Germany. I will present “From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons” on September 3–4, 2026.
 
-- **28 Feb, 2026.** Long paper abstract accepted at DH2026 in Daejeon, South Korea. I will present “Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries” on July 27–31, 2026.
+- *28 Feb, 2026.* Long paper abstract accepted at **DH2026** in Daejeon, South Korea. I will present “Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries” on July 27–31, 2026.
 
-- **19 Feb, 2026.** Poster abstract accepted at DH Benelux 2026 in Maastricht, the Netherlands. I will present “Narrative Flow on the Infinite Canvas” on June 2–5, 2026.
+- *19 Feb, 2026.* Poster abstract accepted at **DH Benelux 2026** in Maastricht, the Netherlands. I will present “Narrative Flow on the Infinite Canvas” on June 2–5, 2026.
 
-- **5 Dec, 2025.** Invited to Malmö University’s workshop “What We Talk About When We Talk About Comics”, where I will contribute to a panel discussion about *audience* on 4–5 May, 2026.
+- *5 Dec, 2025.* Invited to Malmö University’s workshop “What We Talk About When We Talk About Comics”, where I will contribute to a panel discussion about *audience* on 4–5 May, 2026.
 
-- **20-21 Nov, 2025.** Spent two great days at [the first JVMG Lab event](https://jvmg.iuk.hdm-stuttgart.de/2025/12/22/first-jvmg-lab-in-stuttgart/) in Stuttgart, Germany! Built a mini-TUC (*Tiny Use Case*) for [*Lore Olympus*](https://en.wikipedia.org/wiki/Lore_Olympus) using data from the JVMG knowledge graph.
+- *20-21 Nov, 2025.* Spent two great days at [the first JVMG Lab event](https://jvmg.iuk.hdm-stuttgart.de/2025/12/22/first-jvmg-lab-in-stuttgart/) in Stuttgart, Germany! Built a mini-TUC (*Tiny Use Case*) for [*Lore Olympus*](https://en.wikipedia.org/wiki/Lore_Olympus) using data from the JVMG knowledge graph.
 
 - **1 Oct, 2025.** Began my PhD journey at the University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html)!
