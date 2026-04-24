@@ -27,4 +27,4 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 - *20-21 Nov, 2025.* Spent two great days at [the first JVMG Lab event](https://jvmg.iuk.hdm-stuttgart.de/2025/12/22/first-jvmg-lab-in-stuttgart/) in Stuttgart, Germany! Built a mini-TUC (*Tiny Use Case*) for [*Lore Olympus*](https://en.wikipedia.org/wiki/Lore_Olympus) using data from the JVMG knowledge graph.
 
-- **1 Oct, 2025.** Began my PhD journey at the University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html)!
+- *1 Oct, 2025.* Began my PhD journey at the University of Groningen, supervised by [Dr. Federico Pianzola](https://federicopianzola.me/portfolio/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/index.html)!
