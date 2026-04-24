@@ -19,7 +19,7 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 ## News
 - *21 Apr, 2026.* Abstract accepted at the "Re-envisioning Time Across ImageTexts" conference in Siegen, Germany. I will present “From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons” on September 3–4, 2026.
 
-- *28 Feb, 2026.* Long paper abstract accepted at **DH2026** in Daejeon, South Korea. I will present “Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries” on July 27–31, 2026.
+- *28 Feb, 2026.* Long paper abstract accepted at **DH 2026** in Daejeon, South Korea. I will present “Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries” on July 27–31, 2026.
 
 - *19 Feb, 2026.* Poster abstract accepted at **DH Benelux 2026** in Maastricht, the Netherlands. I will present “Narrative Flow on the Infinite Canvas” on June 2–5, 2026.
 
