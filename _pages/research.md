@@ -8,7 +8,7 @@ sidebar:
   - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/foundations-of-ai/multimodality-and-ai/)"
 ---
 ## Publications
-Andreas Van Cranenburgh, Xiaoyan Yang, Alvanita, Cecilia Nicole Di Domenico, Maria Ferragud, Arianna Graciotti, Byungjun Kim, Seonyeong Park, Noa Visser Solissa, Xiaoyu Zhou, and Federico Pianzola. 2026. [GOLEMcoref: A Multilingual Coreference Dataset of Fiction](https://aclanthology.org/2026.acl-short.39/) *In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*, pages 472–480, San Diego, California, United States. Association for Computational Linguistics.
+Andreas Van Cranenburgh, Xiaoyan Yang, Alvanita, Cecilia Nicole Di Domenico, Maria Ferragud, Arianna Graciotti, Byungjun Kim, Seonyeong Park, Noa Visser Solissa, **Xiaoyu Zhou**, and Federico Pianzola. 2026. [GOLEMcoref: A Multilingual Coreference Dataset of Fiction](https://aclanthology.org/2026.acl-short.39/) *In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*, pages 472–480, San Diego, California, United States. Association for Computational Linguistics.
 
 ## Talks and Presentations
 - *Narrative Flow on the Infinite Canvas*. **Poster Presentation**. DH Benelux 2026. Maastricht University, Maastricht, the Netherlands. June 3–5, 2026.
