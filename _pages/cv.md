@@ -10,9 +10,9 @@ sidebar:
 ## Education
 - Oct 2025-present. PhD student. University of Groningen. Groningen, The Netherlands.  
                       Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/)  
-- Sep 2023-Aug 2024. MA in Digital Humanities. University of Groningen. Groningen, The Netherlands.  
+- 2023-2024. MA in Digital Humanities. University of Groningen. Groningen, The Netherlands.  
                       Thesis Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
-- Sep 2018-Jul 2022. Xi’an International Studies University. Xi’an, China.  
+- 2018-2022. Xi’an International Studies University. Xi’an, China.  
                       Thesis Supervisor: [Yi Du](https://sts.xisu.edu.cn/info/1071/3340.htm)
 
 ## Research Experience
