@@ -8,15 +8,15 @@ sidebar:
   - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/foundations-of-ai/multimodality-and-ai/)"
 ---
 ## Education
-- Oct 2025-present. PhD student. University of Groningen. Groningen, The Netherlands.<br>
+- Oct 2025-present. PhD student. University of Groningen, the Netherlands.<br>
                     Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/)
-- 2023-2024. MA in Digital Humanities. University of Groningen. Groningen, The Netherlands.<br>
+- 2023-2024. MA in Digital Humanities. University of Groningen, the Netherlands.<br>
              Thesis Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
-- 2018-2022. Xi’an International Studies University. Xi’an, China.<br>
+- 2018-2022. Xi’an International Studies University, China.<br>
              Thesis Supervisor: [Yi Du](https://sts.xisu.edu.cn/info/1071/3340.htm)
 
 ## Research Experience
-- Nov 2024-present. Research Assistant. [GOLEM Project](https://golemlab.eu/) (Graphs and Ontologies for Literary Evolution Models, ERC StG). University of Groningen. Groningen, The Netherlands.  
+- Nov 2024-present. Research Assistant. [GOLEM Project](https://golemlab.eu/) (Graphs and Ontologies for Literary Evolution Models, ERC StG). University of Groningen, the Netherlands.  
 
 ## Industrial Experience
 - Apr-May 2022. Diplomatic Interpreter (Chinese - English). [The Silk Expo](https://www.esrexpo.com/en/about/about.html). Xi’an, China.
