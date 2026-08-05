@@ -8,8 +8,8 @@ sidebar:
   - text: "[Multimodality and AI Group](https://www.rug.nl/jantina-tammes-school/community/themes/foundations-of-ai/multimodality-and-ai/)"
 ---
 ## Education
-- <h4>Oct 2025-present. PhD student. University of Groningen. Groningen, The Netherlands.<h4>  
-                    <h4>Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/)<h4>
+- <h6>Oct 2025-present. PhD student. University of Groningen. Groningen, The Netherlands.<h6>  
+                    <h6>Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/)<h6>
 - 2023-2024. MA in Digital Humanities. University of Groningen. Groningen, The Netherlands.  
                       Thesis Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
 - 2018-2022. Xi’an International Studies University. Xi’an, China.  
