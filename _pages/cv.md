@@ -10,6 +10,7 @@ sidebar:
 ## Education
 - Oct 2025-present. *PhD Student*. University of Groningen, the Netherlands.<br>
                     Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Janina Wildfeuer](http://janinawildfeuer.de/)
+                    Promoter: [Dr. Johan Bos](https://www.rug.nl/staff/johan.bos/)
 - 2023-2024. *MA in Digital Humanities*. University of Groningen, the Netherlands.<br>
              Thesis Supervisors: [Dr. Federico Pianzola](https://federicopianzola.me/about/) and [Dr. Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
 - 2018-2022. *BA in Translation Studies.* Xi’an International Studies University, China.<br>
