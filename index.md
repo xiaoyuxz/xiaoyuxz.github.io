@@ -17,13 +17,13 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 
 ## News
-- *29 Apr, 2026.* Abstract accepted at ”The 4th International Comics Conference" at Malmö University, Sweden. I will present "Scrolling, Space, and Time: Rethinking Narrative Pacing in Webtoons" on November 13-14, 2026.
+- *29 Apr, 2026.* Abstract accepted at ”The 4th International Comics Conference" at Malmö University, Sweden. I will present "Scrolling, Space, and Time: Rethinking Narrative Pacing in Webtoons" on 13-14 November 2026.
 
-- *21 Apr, 2026.* Abstract accepted at the "Re-envisioning Time Across ImageTexts" conference in Siegen, Germany. I will present “From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons” on September 3–4, 2026.
+- *21 Apr, 2026.* Abstract accepted at the "Re-envisioning Time Across ImageTexts" conference in Siegen, Germany. I will present “From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons” on 3–4 September 2026.
 
-- *28 Feb, 2026.* Long paper abstract accepted at DH 2026 in Daejeon, South Korea. I will present “Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries” on July 27–31, 2026.
+- *28 Feb, 2026.* Long paper abstract accepted at DH 2026 in Daejeon, South Korea. I will present “Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries” on 27–31 July 2026.
 
-- *19 Feb, 2026.* Poster abstract accepted at DH Benelux 2026 in Maastricht, the Netherlands. I will present “Narrative Flow on the Infinite Canvas” on June 2–5, 2026.
+- *19 Feb, 2026.* Poster abstract accepted at DH Benelux 2026 in Maastricht, the Netherlands. I will present “Narrative Flow on the Infinite Canvas” on 2–5 June 2026.
 
 - *5 Dec, 2025.* Invited to Malmö University’s workshop “What We Talk About When We Talk About Comics”, where I will contribute to a panel discussion about *audience* on 4–5 May, 2026.
 
