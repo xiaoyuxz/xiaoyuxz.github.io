@@ -12,7 +12,7 @@ sidebar:
 
 ## Talks and Presentations
 ### 2026
-- *From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons.* **Presentation**. "Re-envisioning Time Across ImageTexts" conference. University of Siegen, Siegen, Germany. 3–4 September 2026.
+- *From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons.* **Presentation**. "Re-envisioning Time Across ImageTexts" conference. University of Siegen, Siegen, Germany. 3–4 September 2026. [[Slides]](https://canva.link/6bxbolzrr5laywc)
 - *Scrolling as Narrative: Rethinking Segmentation in Webtoons Beyond Visual Boundaries.* **Presentation**. DH 2026. Daejeon, South Korea. 27–31 July 2026. [[Slides]](https://canva.link/vcfyqh2h1czvxl5)
 - *Narrative Flow on the Infinite Canvas*. **Poster Presentation**. DH Benelux 2026. Maastricht University, Maastricht, the Netherlands. 3–5 June 2026. [[Poster]](https://canva.link/n40v3nphy0sdiue)
 - *From Page to Scroll: Rethinking Layout Analysis for Webtoons*. **Presentation**. "What We Talk About When We Talk About Comics: Towards a  Metadiscourse for Comics Studies" Workshop. Malmö University, Malmö, Sweden. 4 May 2026. [[Slides]](https://canva.link/55zyhziq7q6ohv1)
