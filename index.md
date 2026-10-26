@@ -23,7 +23,7 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 - *25 Sep, 2026.* Janina and I took part in Eureka!, the 2026 edition of European Researchers’ Night. We spent the evening reading webtoons with curious and enthusiastic visitors! Here are a few photos from the event. You can read more in [research article](https://www.rug.nl/aletta/nieuws/throwback-article-eureka).
 
   <div style="display: flex; gap: 12px; width: 100%; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 12px;" tabindex="0" role="region" aria-label="Photos from Eureka! 2026">
-    <img src="/assets/images/eureka-1.jpg"
+    <img src="/assets/images/eureka-1.jpeg"
          alt="Webtoon reading activity at Eureka! 2026, photo 1"
          loading="lazy"
          style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
