@@ -91,7 +91,7 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 }
 </style>
 
-- *25 Sep, 2026.* Janina and I took part in Eureka!, the 2026 edition of European Researchers’ Night. We spent the evening reading webtoons with curious and enthusiastic visitors! Here are a few photos from the event. You can read more in [this research article](https://www.rug.nl/aletta/nieuws/throwback-article-eureka).
+- *25 Sep, 2026.* Janina and I took part in *Eureka!*, the 2026 edition of *European Researchers’ Night*. We spent the evening reading webtoons with curious and enthusiastic visitors! Here are a few photos from the event. You can read more in [this research article](https://www.rug.nl/aletta/nieuws/throwback-article-eureka).
 
   <div id="eureka-photos" tabindex="0" role="region" aria-label="Photos from Eureka! 2026">
     <img src="/assets/images/eureka-1.jpg" alt="Eureka! 2026, photo 1" loading="lazy">
