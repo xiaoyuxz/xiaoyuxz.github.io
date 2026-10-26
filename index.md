@@ -20,38 +20,114 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 ### 2026
 - *23 Oct, 2026.* Abstract accepted at CHR 2027 at Manchester University, UK. I will present "Evaluating Computer Vision Models on Long-Form Webtoon Images" on 5-8 January 2027.
 
-- *25 Sep, 2026.* Janina and I took part in Eureka!, the 2026 edition of European Researchers’ Night. We spent the evening reading webtoons with curious and enthusiastic visitors! Here are a few photos from the event. You can read more in [research article](https://www.rug.nl/aletta/nieuws/throwback-article-eureka).
+<style>
+#eureka-photos {
+  display: flex;
+  gap: 12px;
+  width: 100%;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
 
-  <div style="margin-top: 12px;">
-    <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; margin-bottom: 8px;">
-      <span style="font-size: 14px;">Scroll to see more photos</span>
-      <button type="button" aria-label="Previous photo"
-              onclick="var g = document.getElementById('eureka-photos'); g.scrollBy({left: -(g.clientWidth * 0.85 + 12), behavior: 'smooth'});"
-              style="cursor: pointer; background: #fff; color: #333; border: 1px solid #aaa; border-radius: 5px; padding: 5px 12px; font-size: 20px;">&#8592;</button>
-      <button type="button" aria-label="Next photo"
-              onclick="var g = document.getElementById('eureka-photos'); g.scrollBy({left: g.clientWidth * 0.85 + 12, behavior: 'smooth'});"
-              style="cursor: pointer; background: #fff; color: #333; border: 1px solid #aaa; border-radius: 5px; padding: 5px 12px; font-size: 20px;">&#8594;</button>
-    </div>
-    <div id="eureka-photos"
-         tabindex="0" role="region" aria-label="Photos from Eureka! 2026"
-         style="display: flex; gap: 12px; width: 100%; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 12px;">
-      <img src="/assets/images/eureka-1.jpg"
-           alt="Eureka! 2026, photo 1" loading="lazy"
-           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-      <img src="/assets/images/eureka-2.jpg"
-           alt="Eureka! 2026, photo 2" loading="lazy"
-           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-      <img src="/assets/images/eureka-3.jpg"
-           alt="Eureka! 2026, photo 3" loading="lazy"
-           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-      <img src="/assets/images/eureka-4.jpg"
-           alt="Eureka! 2026, photo 4" loading="lazy"
-           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-      <img src="/assets/images/eureka-5.jpg"
-           alt="Eureka! 2026, photo 5" loading="lazy"
-           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-    </div>
+#eureka-photos::-webkit-scrollbar {
+  display: none;
+}
+
+#eureka-photos img {
+  flex: 0 0 85%;
+  width: 85%;
+  min-width: 0;
+  height: 320px;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+#eureka-scrollbar {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  height: 24px;
+  margin: 8px 0 16px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+}
+
+#eureka-scrollbar::-webkit-slider-runnable-track {
+  height: 8px;
+  background: #e0e0e0;
+  border-radius: 4px;
+}
+
+#eureka-scrollbar::-webkit-slider-thumb {
+  width: 64px;
+  height: 8px;
+  background: #888;
+  border-radius: 4px;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+#eureka-scrollbar::-moz-range-track {
+  height: 8px;
+  background: #e0e0e0;
+  border-radius: 4px;
+}
+
+#eureka-scrollbar::-moz-range-thumb {
+  width: 64px;
+  height: 8px;
+  border: 0;
+  background: #888;
+  border-radius: 4px;
+}
+
+#eureka-scrollbar:focus-visible {
+  outline: 2px solid #527a96;
+  outline-offset: 3px;
+}
+</style>
+
+- *25 Sep, 2026.* Janina and I took part in Eureka!, the 2026 edition of European Researchers’ Night. We spent the evening reading webtoons with curious and enthusiastic visitors! Here are a few photos from the event. You can read more in [this recap](https://www.rug.nl/aletta/nieuws/throwback-article-eureka).
+
+  <div id="eureka-photos" tabindex="0" role="region" aria-label="Photos from Eureka! 2026">
+    <img src="/assets/images/eureka-1.jpg" alt="Eureka! 2026, photo 1" loading="lazy">
+    <img src="/assets/images/eureka-2.jpg" alt="Eureka! 2026, photo 2" loading="lazy">
+    <img src="/assets/images/eureka-3.jpg" alt="Eureka! 2026, photo 3" loading="lazy">
+    <img src="/assets/images/eureka-4.jpg" alt="Eureka! 2026, photo 4" loading="lazy">
   </div>
+  <input id="eureka-scrollbar" type="range" min="0" max="1000" value="0" step="1" aria-label="Scroll through event photos" aria-controls="eureka-photos">
+
+<script>
+(function () {
+  const photos = document.getElementById("eureka-photos");
+  const scrollbar = document.getElementById("eureka-scrollbar");
+
+  function syncScrollbar() {
+    const maxScroll = photos.scrollWidth - photos.clientWidth;
+    scrollbar.value = maxScroll > 0
+      ? Math.round(photos.scrollLeft / maxScroll * 1000)
+      : 0;
+  }
+
+  scrollbar.addEventListener("input", function () {
+    const maxScroll = photos.scrollWidth - photos.clientWidth;
+    photos.scrollLeft = (Number(scrollbar.value) / 1000) * maxScroll;
+  });
+
+  photos.addEventListener("scroll", syncScrollbar, { passive: true });
+  window.addEventListener("resize", syncScrollbar);
+
+  photos.querySelectorAll("img").forEach(function (img) {
+    img.addEventListener("load", syncScrollbar);
+  });
+
+  syncScrollbar();
+})();
+</script>
   
 - *29 Apr, 2026.* Abstract accepted at ”The 4th International Comics Conference" at Malmö University, Sweden. I will present "Scrolling, Space, and Time: Rethinking Narrative Pacing in Webtoons" on 13-14 November 2026.
 
