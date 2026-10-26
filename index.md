@@ -17,6 +17,8 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 
 ## News
+- *23 Oct, 2026.* Abstract accepted at CHR 2027 at Manchester University, UK. I will present "Evaluating Computer Vision Models on Long-Form Webtoon Images" on 5-8 January 2027.
+
 - *29 Apr, 2026.* Abstract accepted at ”The 4th International Comics Conference" at Malmö University, Sweden. I will present "Scrolling, Space, and Time: Rethinking Narrative Pacing in Webtoons" on 13-14 November 2026.
 
 - *21 Apr, 2026.* Abstract accepted at the "Re-envisioning Time Across ImageTexts" conference in Siegen, Germany. I will present “From Page to Scroll: Rethinking Temporality through Layout and Interaction in Webtoons” on 3–4 September 2026.
