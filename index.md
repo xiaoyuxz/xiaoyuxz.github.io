@@ -17,6 +17,7 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 
 ## News
+### 2026
 - *23 Oct, 2026.* Abstract accepted at CHR 2027 at Manchester University, UK. I will present "Evaluating Computer Vision Models on Long-Form Webtoon Images" on 5-8 January 2027.
 
 - *29 Apr, 2026.* Abstract accepted at ”The 4th International Comics Conference" at Malmö University, Sweden. I will present "Scrolling, Space, and Time: Rethinking Narrative Pacing in Webtoons" on 13-14 November 2026.
@@ -27,6 +28,7 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 - *19 Feb, 2026.* Poster abstract accepted at DH Benelux 2026 in Maastricht, the Netherlands. I will present “Narrative Flow on the Infinite Canvas” on 2–5 June 2026.
 
+### 2025
 - *5 Dec, 2025.* Invited to Malmö University’s workshop “What We Talk About When We Talk About Comics”, where I will contribute to a panel discussion about *audience* on 4–5 May, 2026.
 
 - *20-21 Nov, 2025.* Spent two great days at [the first JVMG Lab event](https://jvmg.iuk.hdm-stuttgart.de/2025/12/22/first-jvmg-lab-in-stuttgart/) in Stuttgart, Germany! Built a mini-TUC (*Tiny Use Case*) for [*Lore Olympus*](https://en.wikipedia.org/wiki/Lore_Olympus) using data from the JVMG knowledge graph.
