@@ -22,27 +22,35 @@ Collaborations, feedback, or chats are all welcome. Feel free to email me!
 
 - *25 Sep, 2026.* Janina and I took part in Eureka!, the 2026 edition of European Researchers’ Night. We spent the evening reading webtoons with curious and enthusiastic visitors! Here are a few photos from the event. You can read more in [research article](https://www.rug.nl/aletta/nieuws/throwback-article-eureka).
 
-  <div style="display: flex; gap: 12px; width: 100%; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 12px;" tabindex="0" role="region" aria-label="Photos from Eureka! 2026">
-    <img src="/assets/images/eureka-1.jpg"
-         alt="Webtoon reading activity at Eureka! 2026, photo 1"
-         loading="lazy"
-         style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-    <img src="/assets/images/eureka-2.jpg"
-         alt="Webtoon reading activity at Eureka! 2026, photo 2"
-         loading="lazy"
-         style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-    <img src="/assets/images/eureka-3.jpg"
-         alt="Webtoon reading activity at Eureka! 2026, photo 3"
-         loading="lazy"
-         style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-    <img src="/assets/images/eureka-4.jpg"
-         alt="Webtoon reading activity at Eureka! 2026, photo 4"
-         loading="lazy"
-         style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
-    <img src="/assets/images/eureka-5.jpg"
-         alt="Webtoon reading activity at Eureka! 2026, photo 4"
-         loading="lazy"
-         style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
+  <div style="margin-top: 12px;">
+    <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; margin-bottom: 8px;">
+      <span style="font-size: 14px;">Scroll to see more photos</span>
+      <button type="button" aria-label="Previous photo"
+              onclick="var g = document.getElementById('eureka-photos'); g.scrollBy({left: -(g.clientWidth * 0.85 + 12), behavior: 'smooth'});"
+              style="cursor: pointer; background: #fff; color: #333; border: 1px solid #aaa; border-radius: 5px; padding: 5px 12px; font-size: 20px;">&#8592;</button>
+      <button type="button" aria-label="Next photo"
+              onclick="var g = document.getElementById('eureka-photos'); g.scrollBy({left: g.clientWidth * 0.85 + 12, behavior: 'smooth'});"
+              style="cursor: pointer; background: #fff; color: #333; border: 1px solid #aaa; border-radius: 5px; padding: 5px 12px; font-size: 20px;">&#8594;</button>
+    </div>
+    <div id="eureka-photos"
+         tabindex="0" role="region" aria-label="Photos from Eureka! 2026"
+         style="display: flex; gap: 12px; width: 100%; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 12px;">
+      <img src="/assets/images/eureka-1.jpg"
+           alt="Eureka! 2026, photo 1" loading="lazy"
+           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
+      <img src="/assets/images/eureka-2.jpg"
+           alt="Eureka! 2026, photo 2" loading="lazy"
+           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
+      <img src="/assets/images/eureka-3.jpg"
+           alt="Eureka! 2026, photo 3" loading="lazy"
+           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
+      <img src="/assets/images/eureka-4.jpg"
+           alt="Eureka! 2026, photo 4" loading="lazy"
+           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
+      <img src="/assets/images/eureka-5.jpg"
+           alt="Eureka! 2026, photo 5" loading="lazy"
+           style="flex: 0 0 85%; width: 85%; min-width: 0; height: 320px; object-fit: contain; border-radius: 6px; scroll-snap-align: start;">
+    </div>
   </div>
   
 - *29 Apr, 2026.* Abstract accepted at ”The 4th International Comics Conference" at Malmö University, Sweden. I will present "Scrolling, Space, and Time: Rethinking Narrative Pacing in Webtoons" on 13-14 November 2026.
