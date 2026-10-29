@@ -24,8 +24,3 @@ sidebar:
 - Feb-May 2022. *Machine Translation Intern (Chinese - English - French)*. [Startimes](https://en.wikipedia.org/wiki/StarTimes). Xi’an, China.
 - Sep 2019-Oct 2021. *Translation Intern (Chinese - English)*. [Plan International](https://plan-international.org/). Xi’an, China.
 - Apr-Jun 2020. *Speech Recognition Intern (Chinese - English)*. [iFlytek](https://www.iflytek.com/en/about-us/about.html). Xi’an, China.
-
-## Awards and Grants
-- 2025-2029. Chinese Scholarship Council (CSC) Scholarship.
-- 2019-2020. Artistic and Athletic Merit Scholarship.
-- 2018- 2019. National Third-Class Academic Scholarship.
