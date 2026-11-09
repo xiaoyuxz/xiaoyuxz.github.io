@@ -9,11 +9,14 @@ sidebar:
 ---
 ## Education
 - Oct 2025-present. *PhD Student*. University of Groningen, the Netherlands.<br>
+                    Multimodal Graphic Narratives and Digital Humanities
                     Supervisors: [Federico Pianzola](https://federicopianzola.me/about/) and [Janina Wildfeuer](http://janinawildfeuer.de/)<br>
                     Promoter: [Johan Bos](https://www.rug.nl/staff/johan.bos/)
 - 2023-2024. *MA in Digital Humanities*. University of Groningen, the Netherlands.<br>
+             Cross-Cultural Sentiment Annotation and Analysis of Comics Based on the TINTIN Corpus
              Thesis Supervisors: [Federico Pianzola](https://federicopianzola.me/about/) and [Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
 - 2018-2022. *BA in Translation Studies.* Xi’an International Studies University, China.<br>
+             
              Thesis Supervisor: [Yi Du](https://sts.xisu.edu.cn/info/1071/3340.htm)
 
 ## Research Experience
